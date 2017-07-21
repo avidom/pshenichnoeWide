@@ -1400,7 +1400,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	// bottle2
 	this.bottle2 = new lib.bottle_1();
-	this.bottle2.setTransform(-274,-12);
+	this.bottle2.setTransform(-274,-28);
 
 	this.timeline.addTween(cjs.Tween.get(this.bottle2).wait(1));
 
@@ -1418,7 +1418,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	// bottle
 	this.bottle = new lib.bottle_1();
-	this.bottle.setTransform(-274,-12);
+	this.bottle.setTransform(-274,-28);
 
 	this.timeline.addTween(cjs.Tween.get(this.bottle).wait(1));
 
